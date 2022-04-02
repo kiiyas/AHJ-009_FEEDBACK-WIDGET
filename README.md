@@ -1,7 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rqcu9n3jydl9gp3d?svg=true)](https://ci.appveyor.com/project/kiiyas/ahj-005-metrics)
+[![Build status](https://ci.appveyor.com/api/projects/status/qh233genuts2xq5m?svg=true)](https://ci.appveyor.com/project/kiiyas/ahj-009-feedback-widget)
 
 [Ссылка на GitHub-Pages](https://kiiyas.github.io/AHJ-009_FEEDBACK-WIDGET/)
 
-ТЗ: реализовать popover на чистом JS. Виджет всегда должен показываться сверху. У popover'а обязательно должно быть название и текст. Центрироваться он обязательно должен по горизонтали относительно элемента, который вызвал popover'а.
-
-Не забудьте написать авто-тест на взаимодействие с DOM на базе Puppeteer или JSDOM (на ваш выбор).
+ТЗ: сделать виджет обратной связи на портал компании. Реализуйте показ и скрытие. Обратите внимание, что при нажатии на кнопку, сама кнопка тоже исчезает, а при скрытии формы - появляется.
